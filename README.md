@@ -1,5 +1,7 @@
 # UNIKOV — nová podoba webu
 
+**[Otvoriť živý web na GitHub Pages](https://matejsmutny1-droid.github.io/unikov-web/)**
+
 ![Náhľad webu](docs/preview.png)
 
 Kompletný statický web pripravený podľa obsahu https://www.unikov.sk/ načítaného 16. novembra 2026. Dizajn používa teplú bielu, modrozelenú, výraznú typografiu a jemné delenie obsahu. Fotografie v náhľadoch majú jednotný jemný grading cez CSS; zväčšená galéria ukazuje pôvodné súbory.

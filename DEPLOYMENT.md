@@ -1,5 +1,13 @@
 # Odovzdanie a nasadenie
 
+## GitHub Pages — živý náhľad
+
+Web: https://matejsmutny1-droid.github.io/unikov-web/
+
+GitHub Pages publikujú vetvu `main`, priečinok `/docs`. Priečinok `docs/` obsahuje vygenerovanú verziu s odkazmi prispôsobenými adrese `/unikov-web/`.
+
+Po úprave webu spustite `npm run build:pages` a commitnite aj zmeny v `docs/`. Po pushi GitHub aktualizuje stránku automaticky. Pre nasadenie na vlastnú doménu naďalej slúži priečinok `dist/`.
+
 ## Čo odovzdať
 
 Tento celý repozitár obsahuje zdrojové súbory, fotografie a predgenerovaný web. Na hosting sa kopíruje **obsah adresára `dist/`**. Inštalácia balíčkov, databáza ani účet na náhľadovom hostingu nie sú potrebné.
